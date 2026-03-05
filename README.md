@@ -219,8 +219,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ✍️ Author
 
 [![GitHub](https://img.shields.io/badge/GitHub-SimeonDee-181717?logo=github)](https://github.com/SimeonDee)
-[![Email](https://img.shields.io/badge/Email-adeyemi.adedoyin.simeon%40gmail.com-red?logo=gmail&logoColor=white)](mailto:adeyemi.adedoyin.simeon@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adedoyin%20Adeyemi-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/adedoyin-adeyemi-a7827b160)
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-red?logo=gmail&logoColor=white)](mailto:adeyemi.adedoyin.simeon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/adedoyin-adeyemi-a7827b160)
 
 ---
 
