@@ -222,8 +222,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Email](https://img.shields.io/badge/Email-adeyemi.adedoyin.simeon%40gmail.com-red?logo=gmail&logoColor=white)](mailto:adeyemi.adedoyin.simeon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adedoyin%20Adeyemi-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/adedoyin-adeyemi-a7827b160)
 
-**Adedoyin Simeon Adeyemi** – Developer exploring agentic AI patterns with LangChain and Langgraph.
-
 ---
 
 Feel free to expand, adapt, or integrate this workflow into your own projects! Contributions and suggestions are welcome.
